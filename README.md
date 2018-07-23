@@ -4,8 +4,8 @@
 
 Your friend Harry Potter was very impressed with the invitations that you created for Ron Weasley's graduation party. Harry suggests that the two of you start an invitation printing business together. He wants you to create a program that prompts customers for the following party details...
 
-* guest_name
-* party_name
+* guest_name = Hermione 
+* party_name = Halloween Bash 
 * date
 * time
 * host_name
