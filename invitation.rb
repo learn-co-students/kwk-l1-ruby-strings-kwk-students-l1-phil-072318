@@ -12,7 +12,7 @@ date=gets.chomp
 
 puts "What time is the party?"
 
-time=
+time=gets.chomp
 
 
 # guest_name="whomever"
